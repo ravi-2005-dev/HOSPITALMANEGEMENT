@@ -306,17 +306,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 -----
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
------
-
-## 📧 Contact
-
-Karthik sai - [aksai0511@gmail.com](mailto:aksai0511@gmail.com)
-
-Project GitHub: [https://github.com/karthiksai2000/MERNSTACK](https://github.com/karthiksai2000/MERNSTACK)
-
-
-Give a ⭐️ if this project helped you\!
